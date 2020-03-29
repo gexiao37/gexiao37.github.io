@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "DJ.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 39,
     "versionPublish": "4.6.7",
@@ -507,7 +507,7 @@
         }
       ]
     },
-    "page1.html": {
+    "DJ.html": {
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "Data Journalism",
