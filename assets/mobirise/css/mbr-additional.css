@@ -2309,9 +2309,21 @@ body {
 .cid-rVgGwBzmeh .mbr-text {
   color: #232323;
 }
+.cid-rWM3tsam3g {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #b2ccd2;
+}
+.cid-rWM3tsam3g .mbr-text,
+.cid-rWM3tsam3g blockquote {
+  color: #767676;
+}
+.cid-rWM3tsam3g .mbr-text B {
+  color: #232323;
+}
 .cid-rWCaIMyw1R {
   padding-top: 15px;
-  padding-bottom: 30px;
+  padding-bottom: 0px;
   background: #b2ccd2;
 }
 .cid-rWCaIMyw1R .image-block {
