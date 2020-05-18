@@ -2902,8 +2902,11 @@ body {
 .cid-rZlByf554w {
   background: linear-gradient(45deg, #b2ccd2, #b2ccd2);
 }
+.cid-rZlByf554w H1 {
+  color: #251515;
+}
 .cid-rZlHDtoe4y {
-  padding-top: 60px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #b2ccd2;
 }
