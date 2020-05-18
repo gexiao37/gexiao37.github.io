@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "FC.html",
+    "currentPage": "DJ.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 107,
+    "uniqCompNum": 111,
     "versionPublish": "4.6.7",
     "theme": {
       "name": "mobirise4",
@@ -31,7 +31,8 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
-        "#251515"
+        "#251515",
+        "#6576aa"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -1544,7 +1545,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>这些频繁出现的词语同我们观察的结论一致。疫情的发生和医保政策支持，使得在疫情期间的互联网医疗有了发展机会和探索平台发展前景的窗口。之前线上问诊的难点之一是不支持医保线上支付，而现在似乎打开了一道窗口。</p><p>\n</p><div>&nbsp;此外，微博上的用户内容中情感类关键词较少，用户对互联网平台的情绪反应不强。\n<span style=\"font-size: 1rem;\">在我们检索的所有数据中，通知宣传类微博占86%，个体感受类微博占4%。通知宣传类的微博数据是个体感受类的20多倍。</span></div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>这些频繁出现的词语同我们观察的结论一致。<b>疫情的发生和医保政策支持，使得在疫情期间的互联网医疗有了发展机会和探索平台发展前景的窗口。</b>之前线上问诊的难点之一是不支持医保线上支付，而现在似乎打开了一道窗口。</p><p>\n</p><div>&nbsp;此外，<b>微博上的用户内容中情感类关键词较少，用户对互联网平台的情绪反应不强。</b>\n<span style=\"font-size: 1rem;\">在我们检索的所有数据中，通知宣传类微博占86%，个体感受类微博占4%。通知宣传类的微博数据是个体感受类的20多倍。</span></div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rWunPnD0l7",
           "_anchor": "content1-27",
           "_protectedParams": [],
@@ -1589,7 +1590,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>这部分，我们首先对“丁香医生”这款app的使用数据进行整理与分析。由于在市场中，app的使用分为了两大阵营，安卓市场与苹果市场，根据相关估算它们的占比大概是3：7。安卓市场的应用下载数据不统一，它分为多个应用市场，如华为、小米、OPPO、魅族等，因此它的数据比较分散。而苹果市场则比较统一，只需要统计appstore的数据即可。因此在下列分析中，我们将数据分成了安卓市场与苹果市场两块。<br></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>这部分，我们首先对“丁香医生”这款app的使用数据进行整理与分析。由于在市场中，app的使用分为了两大阵营，安卓市场与苹果市场，根据相关估算它们的占比大概是3：7。安卓市场的应用下载数据不统一，它分为多个应用市场，如华为、小米、OPPO、魅族等，因此它的数据比较分散。而苹果市场则比较集中，只需要统计appstore的数据即可。因此在下列分析中，我们将数据分成了安卓市场与苹果市场两块。<br></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rW0L3rqqy1",
           "_anchor": "content1-1k",
           "_protectedParams": [],
@@ -1706,7 +1707,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>在苹果市场中，“丁香医生”的当前评分为4.9。总评分次数将近10万，其中大部分用户给与了5星好评，只有1.8%的用户给了1星的评价。从评分来看，“丁香医生”在苹果市场的用户评价良性居多。\n</p><p></p><div>在安卓市场上，评分数据较为分散。在今年的评分中，我们只获取了累计77次评分，在这些评分中，2020年2月的评分次数最多。<span style=\"font-size: 1rem;\">根据计算，安卓2020年1月1日-2020年4月13日的评分平均值为3，处于中上评价。相较于苹果市场的评分而言，安卓市场的评分较低。 &nbsp;</span><span style=\"font-size: 1rem;\">在分布上，5星和1星两极化趋势明显，相较于苹果市场5星占大多数而言，安卓市场的1星评价明显增多。</span></div><p></p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>在苹果市场中，“丁香医生”的当前评分为4.9。总评分次数将近10万，其中大部分用户给与了5星好评，只有1.8%的用户给了1星的评价。从评分来看，“丁香医生”在苹果市场的用户评价良性居多。\n</p><p></p><div>在安卓市场上，评分数据较为分散。在今年的评分中，我们只获取了累计77次评分，在这些评分中，2020年2月的评分次数最多。<span style=\"font-size: 1rem;\">根据计算，安卓2020年1月1日-2020年4月13日的评分平均值为3，处于中上评价。<b>相较于苹果市场的评分而言，安卓市场的评分较低。 &nbsp;</b></span><span style=\"font-size: 1rem;\"><b>在分布上，5星和1星两极化趋势明显，相较于苹果市场5星占大多数而言，安卓市场的1星评价明显增多。</b></span></div><p></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rWujcX83wf",
           "_anchor": "content1-25",
           "_protectedParams": [],
@@ -1856,7 +1857,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>从APP的评价来看，互联网医疗在疫情期间的确获得了关注也收获了好评，然而它始终面临着老问题：APP使用不通畅、医生与患者沟通效率差、价格收费不合理，从而导致了使用感受因人而异，并且很大程度上取决于医生是否及时回复。</p><p>所以，我们下面这一部分对丁香医生的使用状况做了一些调查。</p><p>我们抓取了丁香医生网页“名医问答”板块的内容，截至4月27日该板块中公开的310个最新常见问诊问题中出现频率较高的关键词如下图。</p><p>我们可以发现，抓取到的线上问诊内容中“宝宝”一词出现频率最高，可见宝妈是较常使用线上问诊的人群之一。除了和母婴问题相关的关键词，“咳嗽”“疼痛”等较为常见的病症描述词出现频率也比较高。虽然疫情已经好转，但“肺炎”也是出现频率比较高的关键词之一。</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>从APP的评价来看，<b>互联网医疗在疫情期间的确获得了关注也收获了好评，然而它始终面临着老问题：APP使用不通畅、医生与患者沟通效率差、价格收费不合理，从而导致了使用感受因人而异，并且很大程度上取决于医生是否及时回复。</b></p><p>所以，我们下面这一部分对丁香医生的使用状况做了一些调查。</p><p>我们抓取了丁香医生网页“名医问答”板块的内容，截至4月27日该板块中公开的310个最新常见问诊问题中出现频率较高的关键词如下图。</p><p>我们可以发现，抓取到的线上问诊内容中“宝宝”一词出现频率最高，可见宝妈是较常使用线上问诊的人群之一。除了和母婴问题相关的关键词，“咳嗽”“疼痛”等较为常见的病症描述词出现频率也比较高。虽然疫情已经好转，但“肺炎”也是出现频率比较高的关键词之一。</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rWCermzSlT",
           "_anchor": "content1-2c",
           "_protectedParams": [],
@@ -2074,6 +2075,28 @@
         },
         {
           "_styles": {
+            "& when not (@fullScreen)": {
+              "padding-top": "(@paddingTop * 15px)",
+              "padding-bottom": "(@paddingBottom * 15px)"
+            },
+            "& when (@bg-type = 'color')": {
+              "background": "linear-gradient(45deg, @bg-value, @color2)"
+            },
+            "& when (@bg-type = 'image')": {
+              "background-image": "url(@bg-value)"
+            }
+          },
+          "_name": "header5",
+          "_customHTML": "<section class=\"header5\" group=\"Headers\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"checkbox\" title=\"Show Arrow\" name=\"showArrow\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/img/03.jpg\" parallax>\n            <input type=\"color\" title=\"Background Color\" value=\"#b2ccd2\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"color\" name=\"color2\" title=\"Color2\" value=\"#6576aa\" condition=\"bg.type=='color'\" selected>\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" checked condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.6\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"row justify-content-center\">\n            <div class=\"mbr-white col-md-10\">\n                <h1 class=\"mbr-section-title align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\" mbr-if=\"showTitle\">嵌入嵌入嵌入嵌入</h1>\n                <p class=\"mbr-text align-center display-5 pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" mbr-if=\"showText\" data-app-selector=\".mbr-text, .mbr-section-btn\">\n                   Full screen intro with gradient background color. Click blue 'Gear' icon in the top right corner to hide/show buttons, text, title and change the block background. Click red '+' in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add themes.\n                </p>\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\">\n                        <a class=\"btn btn-md btn-secondary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                        <a class=\"btn btn-md btn-white-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n\n    <div mbr-if=\"showArrow\" class=\"mbr-arrow hidden-sm-down\" aria-hidden=\"true\">\n        <a href=\"#next\">\n            <i class=\"mbri-down mbr-iconfont\"></i>\n        </a>\n    </div>\n</section>",
+          "_cid": "rZlByf554w",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "header5-32"
+        },
+        {
+          "_styles": {
             "padding-top": "(@paddingTop * 15px)",
             "padding-bottom": "(@paddingBottom * 15px)",
             "& when (@bg-type = 'image')": {
@@ -2128,11 +2151,11 @@
           "_name": "content10",
           "_customHTML": "<section class=\"mbr-section article content10\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"66\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"93\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#ffffff\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#2e2e2e\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-white mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>作品展示<br></div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n    </div>\n</section>",
           "_cid": "rXrnrNEM8y",
+          "_anchor": "content10-2r",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content10-2r"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2250,11 +2273,11 @@
           "_name": "content4",
           "_customHTML": "<section class=\"mbr-section content4\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\" checked>\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#e4d295\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\"><a href=\"https://gexiao37.github.io/SG\" target=\"_blank\" class=\"text-black\">寿光 | 211篇灾情报道仅一篇质疑政府责任，说好的舆论监督在哪里？</a></h2>\n                <h3 mbr-if=\"showSubtitle\" data-app-selector=\".mbr-section-subtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-fonts-style\" mbr-theme-style=\"display-5\">2018.8</h3>\n                <div class=\"mbr-section-btn align-center py-4\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-black-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rXrmwLowac",
+          "_anchor": "content4-2q",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content4-2q"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2270,11 +2293,11 @@
           "_name": "content5",
           "_customHTML": "<section class=\"mbr-section content5\" group=\"Article\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"checkbox\" title=\"Show Subtitle\" name=\"showSubtitle\">\n        <input type=\"checkbox\" title=\"Show Text\" name=\"showText\">\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\">\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\" selected>\n            <input type=\"color\" title=\"Background Color\" value=\"#0f7699\">\n            <input type=\"video\" title=\"Background Video\" value=\"http://www.youtube.com/watch?v=uNCr7NdOJgw\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#232323\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.4\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"title col-12 col-md-8\">\n                <h2 mbr-if=\"showTitle\" class=\"align-center mbr-bold mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-1\"><i>Videos</i></h2>\n                <h3 mbr-if=\"showSubtitle\" class=\"mbr-section-subtitle align-center mbr-light mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-section-subtitle\"></h3>\n                <p class=\"mbr-text align-center mbr-white pb-3 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" mbr-if=\"showText\" mbr-article data-multiline>\n                    Shape your future web project with sharp design and refine coded functions\n                </p>\n                <div class=\"mbr-section-btn align-center\" mbr-if=\"showButtons\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\">\n                    <a class=\"btn btn-primary\" href=\"https://mobirise.com\">LEARN MORE</a>\n                    <a class=\"btn btn-white-outline\" href=\"https://mobirise.com\">LIVE DEMO</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rXrqrcv6n1",
+          "_anchor": "content5-2u",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content5-2u"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2291,11 +2314,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#cebfaf\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>“相约荔枝”第三届江苏广电苏台大学生暑期传媒营</b></p><p><b>视频制作一等奖</b></p><p><b>链接：<a href=\"https://www.xinpianchang.com/a10493583?from=UserProfile\" target=\"_blank\" class=\"text-black\">https://www.xinpianchang.com/a10493583?from=UserProfile</a></b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rXrrwuyHva",
+          "_anchor": "content1-2w",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-2w"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2312,11 +2335,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>江苏广播电视台融媒体新闻中心 网罗天下栏目</b></p><p><b>参与近20个抖音视频制作，并播出。</b></p><p><b>链接：<a href=\"https://v.douyin.com/w5n55K/\" class=\"text-black\" target=\"_blank\">https://v.douyin.com/w5n55K/</a></b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rXrs6qIVam",
+          "_anchor": "content1-2x",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-2x"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2333,11 +2356,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#cebfaf\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Bilibili VLOG</b></p><p><b>曾被MCN挖掘</b></p><p><b>链接：<a href=\"https://space.bilibili.com/3187302\" target=\"_blank\" class=\"text-black\">https://space.bilibili.com/3187302</a></b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rXrtoex3SP",
+          "_anchor": "content1-2y",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-2y"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2380,11 +2403,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>寿光 | 211篇灾情报道仅一篇质疑政府责任，说好的舆论监督在哪里？\n</b><div><b>编者按\n</b></div><div><b>山东疫苗丑闻发生之后，7月23日上午，山东省委意识形态和宣传思想工作领导小组召开会议，明确提出“省级新闻单位要进一步加大舆论监督力度”。 “监督令”一经发出便引发热议。有人质疑这是对媒体的羞辱，有人怀念调查报道的黄金时代，有人相信这是地方政府尝到舆论监督凋零苦果后的反思。\n</b></div><div><b>\n</b></div><div><b>如今，一个月过去了，这条“监督令”究竟只是“说得好听”，还是“真刀真枪”呢？山东媒体是否真的会加大舆论监督？山东省政府又如何对待舆论？\n</b></div><div><b>&nbsp; \n</b></div><div><b>（图为会议具体内容截取，来自https://www.thepaper.cn/newsDetail_forward_2290794）\n</b></div><div><b>\n</b></div><div><b>8月19日，山东省潍坊市下属的县级市寿光遭遇特大洪灾。时值“监督令”发布一个月，作为这一个月内山东地区发生的重大灾害，山东媒体在这一重大灾害事件中的舆论监督表现如何呢？面对网络上对山东各级政府在这次灾害发生时的质疑，山东各级政府对待质疑的反应又如何呢？\n</b></div><div><b>\n</b></div><div><b>今天，《核真录》要核查的，就是在此次寿光洪灾中，山东媒体与政府的表现是否兑现了其一个月前的承诺。\n</b></div><div><b>\n</b></div><div><b>【舆情】\n</b></div><div><b>寿光洪灾发生后，网络上便充斥着许多质疑。总体来说，目前存在的主要质疑总结如下：\n</b></div><div><b>1.在明知“温比亚台风”即将到来的情况下，上游水库为什么不提前泄洪?\n</b></div><div><b>2.上游水库一起泄洪，寿光当地政府为什么不提前通知撤离？\n</b></div><div><b>3.受灾之后，为什么全是寿光在自救？\n</b></div><div><b>4.为什么一开始寿光洪灾发生时没有媒体报道，有关寿光的热搜也接连被撤？\n</b></div><div><b>5.寿光受灾后，全国蔬菜价格将飙升？\n</b></div><div><b>6.政府是否虚报灾情？\n</b></div><div><b>7.洪灾过后，大量死猪是否会造成疫情？\n</b></div><div><b>\n</b></div><div><b>针对以上质疑，山东各级政府是否有进行回应呢？媒体是否对各级政府的表现进行监督呢？  \n</b></div><div><b>\n</b></div><div><b>本期《核真录》 整理了山东省委机关报《大众日报》、山东省发行量最大的报纸《齐鲁晚报》、以及寿光所属的潍坊市的主要新闻单位《潍坊日报》从8月19日-8月25日发布的所有有关洪水灾情的报道。并且整理了三家主要媒体的微博账号（《潍坊日报》的微博账号由《潍坊晚报》替代。）\n</b></div><div><b>\n</b></div><div><b>结果发现三家报纸在这一个星期内，三家报纸一共发布有关洪水灾情的报道113篇。三家媒体的微博账号发布洪水灾情98条，总计211篇（条）洪水相关的文章。而在这211篇文章里，仅一篇提到了灾害中的人为因素，也仅有一篇质疑政府责任的报道。这篇报道的内容是质疑为何大雨天还有洒水车洒水的。\n</b></div><div><b>\n</b></div><div><b>我们对这所有211篇报道建立了完整的数据库 (如下图)，并对其中的内容进行编码，力求还原在此次山东媒体舆论监督及回应情况。当然，由于一定的限制，不排除出现遗漏的情况。\n</b></div><div><b>&nbsp;\n</b></div><div><b>\n</b></div><div><b>六大编码维度\n</b></div><div><b>（对此部分不感兴趣的可以跳过，直接拉到下面看结果。）\n</b></div><div><b>【时间跨度】\n</b></div><div><b>2018年8月19日-2018年8月25日\n</b></div><div><b>【媒体选择】\n</b></div><div><b>大众日报：山东省委机关报\n</b></div><div><b>齐鲁晚报：山东最大都市报\n</b></div><div><b>潍坊日报：寿光所在地级市市委机关报\n</b></div><div><b>我们选择这三家具有代表性的媒体的纸质版及其官方微博账号（由于未找到《潍坊日报》的官方微博账号，由《潍坊晚报》替代）进行调查，来探究它们在此次寿光洪灾事件中主要报道了什么内容。\n</b></div><div><b>\n</b></div><div><b>【六大变量编码】\n</b></div><div><b>&nbsp; 我们这211篇报道按照六个维度进行编码。分别是：\n</b></div><div><b>&nbsp; &nbsp;1、[文章是否将灾情归因为自然灾害？] 比如说，文中提到由于“温比亚”台风登陆，形成暴雨，造成洪灾。\n</b></div><div><b>&nbsp; &nbsp;2、[文章是否提到人为原因导致灾情严重？] 比如说，由于基础建设不力，导致寿光排水困难，造成洪灾。\n</b></div><div><b>&nbsp; &nbsp;3、[文章是否提及受灾情况] 有关人员伤亡、财产损失、人民生活受到影响等。\n</b></div><div><b>&nbsp; &nbsp;4、[文章中是否提及政府（或其他组织）救援情况] 有关政府部门（包括武警官兵、慈善机构等）参与救援的情况。\n</b></div><div><b>&nbsp; &nbsp;5、[文章是否提到质疑政府责任] 文章中提及某个政府部门办事不力，或表示要对有关部门进行调查等。\n</b></div><div><b>&nbsp; &nbsp;6、[文章是否回应了网络上关于政府责任的质疑] 文章中是否对上文所提及的七个质疑点之一进行回应。\n</b></div><div><b>（说明：此次编码采用一对多计数，就是说，若一篇文章既归因于自然灾害，又归因于人为原因，则在这两栏中都进行计数。）\n</b></div><div><b>【仅有的一篇质疑是关于洒水车的】\n</b></div><div><b>&nbsp;\n</b></div><div><b>&nbsp;\n</b></div><div><b>&nbsp;\n</b></div><div><b>三家媒体发稿内容高度雷同。在核真录所统计的三家媒体共211篇报道中，文章内容几乎全部集中于三个方面：归因为自然灾害、受灾情况、政府救援。此外，除了集中的报道方向，三个媒体的发稿内容也高度雷同。\n</b></div><div><b>仅有一篇质疑政府行事不当。211篇报道中，仅有潍坊晚报的微博账号发布了1篇质疑政府行事不当的文章，主要内容为质疑政府大雨天还要用洒水车洒水的官僚作风。（见下图）除此以外，剩下的210篇报道没有一篇质疑有关部门的责任。\n</b></div><div><b>&nbsp;\n</b></div><div><b>（图为潍坊晚报的微博截图）\n</b></div><div><b>仅有的三篇回应中，两篇回应洒水车，仅有一篇回应关于晚泄洪的质疑。在不多的三篇回应中，潍坊晚报质疑政府雨天还要用洒水车过后，分别在8月20日、8月21日连续发布了两篇有关洒水车的回应，其中说明：“洒水车实为清淤作业。”“请市民理解。”剩下的一篇大众日报对晚泄洪质疑的回应道：“没提前泄洪为保障用水。”\n</b></div><div><b>&nbsp; \n</b></div><div><b>（两图为潍坊晚报回应洒水车的两篇报道）\n</b></div><div><b>&nbsp;\n</b></div><div><b>（图为大众日报回应晚泄洪的质疑）\n</b></div><div><b>仅有一篇提及洪灾中的人为原因。在211篇报道中，仅有大众日报微博账号发布的1篇文章提及寿光洪灾的人为原因是上游地区泄洪。\n</b></div><div><b>&nbsp;\n</b></div><div><b>（图为大众日报文章截图）\n</b></div><div><b>\n</b></div><div><b>结语\n</b></div><div><b>综合以上数据，我们发现，虽然一个月前山东省明确提出“要加强舆论监督”，但是在类似寿光洪灾这样重大的灾害面前，舆论监督并没有体现出来。也许是因为时间太短，一个月并不能体现出山东省加强舆论监督力度的决心。但无论如何，政府部门在面对此类事件时，应当给予群众更及时的反馈，应当给予网络上的质疑以更多的回应，应当给予可能出现的人为原因以更清醒的认识。做到这些，山东省才真正能够落实“加强舆论监督”这句口号，而这也是核真录此文的目的之一。\n</b></div><div><b><br></b></div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rXrpYnN1J1",
+          "_anchor": "content1-2t",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-2t"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2400,11 +2423,11 @@
           "_name": "footer6",
           "_customHTML": "<section group=\"Footers\" global once mbr-class=\"{'mbr-reveal': reveal, 'mbr-parallax-background': bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Reveal effect\" name=\"reveal\">\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/jumbotron.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#2e2e2e\" selected>\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#3C3C3C\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type !== 'color'\" opacity=\"{{overlayOpacity}}\" bg-color=\"{{overlayColor}}\"></div>\n\n    <div class=\"container\">\n        <div class=\"media-container-row align-center mbr-white\">\n            <div class=\"col-12\">\n                <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".media-container-row .mbr-text\" data-app-placeholder=\"Type Text\">\n                    © Copyright 2020 Gx - All Rights Reserved\n                </p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rUN066JdIb",
+          "_anchor": "footer6-2s",
           "_protectedParams": [],
           "_global": true,
           "_once": true,
-          "_params": {},
-          "_anchor": "footer6-2s"
+          "_params": {}
         }
       ]
     }
