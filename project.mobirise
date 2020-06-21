@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "DJ.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 120,
+    "uniqCompNum": 121,
     "versionPublish": "4.6.7",
     "theme": {
       "name": "mobirise4",
@@ -1713,13 +1713,41 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"130\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/-436x64.png\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b><i>双因素检验</i></b><br>在这一部分我们将医生的评分与医生价格和问诊量进行了双因素检验，最后得出的结果P值均小于0.05，价格与医生评分的关系更加紧密。</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"185\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/-436x64.png\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b><i>双因素检验</i></b><br>在这一部分我们将医生的评分与医生价格和问诊量进行了双因素检验，最后得出的结果P值均小于0.05，价格与医生评分的关系更加紧密。</p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s1jkUNbs6e",
           "_anchor": "content6-39",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor",
+            "@media (min-width: 992px)": {
+              ".mbr-figure": {
+                "padding-right": "4rem"
+              }
+            },
+            "@media (max-width: 992px)": {
+              ".mbr-figure": {
+                "padding-bottom": "1rem"
+              }
+            },
+            ".mbr-text": {
+              "color": "#251515"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"190\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/-20200621135237-436x126.png\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b><i>相关关系</i></b><br>采用皮尔森积矩相关系数测量变量之间关系密切程度，通过计算两个变量的协方差与两个变量的标准差之积的比值来反应关系的强弱。如左图所示，评分与价格、评分与回答数交互的Pearson相关系数分别为0.069和0.039，且分别在1%和5%的水平上显著，因此认为“评分”和“价格”、“评分”和“回答数”间存在显著的正相关关系。<b><i><br></i></b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_cid": "s2wtnBdydp",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {},
+          "_anchor": "content6-3c"
         },
         {
           "_styles": {
@@ -1866,7 +1894,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>综上，互联网医疗至今仍没冲破桎梏，无法替代线下医疗所起到的作用。然而，作为传统医疗的辅助性医疗体系，互联网医疗在医疗信息咨询这一方面作用突出。正如疫情期间，互联网医疗进入人们的视野，很大程度上是因为它可以及时地提供充足的医疗信息，免除交通的阻碍使得患者可以与医生进行交流。</p><p>十年前，当人们壮志凌云地提出互联网医疗这一概念时所描绘的线上医疗环境还未到来。创造新的生活方式、新的产业模式也需要天时地利人和。目前互联网医疗正通过疫情的机会进入人们的生活，伴随着新技术的帮助，它也将发挥更强大的作用。</p></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>综上，互联网医疗至今仍没冲破桎梏，无法替代线下医疗所起到的作用。然而，作为传统医疗的辅助性医疗体系，互联网医疗在医疗信息咨询这一方面作用突出。正如疫情期间，互联网医疗进入人们的视野，很大程度上是因为它可以及时地提供充足的医疗信息，免除交通的阻碍使得患者可以与医生进行交流。</p><p>十年前，当人们壮志凌云地提出互联网医疗这一概念时所描绘的线上医疗环境还未到来。创造新的生活方式、新的产业模式也需要天时地利人和。目前互联网医疗正通过疫情的机会进入人们的生活，伴随着新技术的帮助，它也将发挥更强大的作用。</p><p>目前，“互联网+医疗健康”模式的互联网医院正成为互联网医疗的新发展方向，我国已具有乌镇互联网医院、好大夫的银川智慧互联网医院、微医的宁夏互联网医院、银川丁香互联网医院、春雨的银川春雨互联网医院、京东的银川京东互联网医院、安心医生的银川云海翼互联网医院等。\n</p><p>它们具有两种模式。第一种模式是以医疗机构为主体，利用互联网信息技术拓展服务时间和空间，把互联网医院作为医疗机构的第二名称。第二种是一些互联网公司和企业已经申办了互联网医院，利用互联网公司提供的平台，为患者提供服务。\n</p><p>同线下实体医院相结合，互联网医疗不再是空中楼阁，也不再是传统医疗的竞争对手。合作共赢、取长补短，在未来，互联网医院将发挥它的优势，同传统医疗一起，更好地为大众提供医疗服务。</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "s1jlJpAOlH",
           "_anchor": "content1-3a",
           "_protectedParams": [],
