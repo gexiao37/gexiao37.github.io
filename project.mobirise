@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "DJ.html",
+    "currentPage": "FC.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 121,
-    "versionPublish": "4.6.7",
+    "versionPublish": "5.1.4",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,9 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "imageResize": true
   },
   "pages": {
     "index.html": {
@@ -1743,11 +1745,11 @@
           "_name": "content6",
           "_customHTML": "<section class=\"mbr-section content6\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n      <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n      <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n\n      <input type=\"range\" inline title=\"Media Size\" name=\"mediaSize\" min=\"10\" max=\"200\" step=\"5\" value=\"190\">\n      <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n    \n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"media-container-row\">\n                    <div class=\"mbr-figure\" mbr-style=\"{'width': mediaSize + '%'}\">\n                      <img src=\"@PROJECT_PATH@/assets/images/-20200621135237-436x126.png\" alt=\"Mobirise\" title>  \n                    </div>\n                    <div class=\"media-content\">\n                        <div class=\"mbr-section-text\">\n                            <p class=\"mbr-text mb-0 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\"><b><i>相关关系</i></b><br>采用皮尔森积矩相关系数测量变量之间关系密切程度，通过计算两个变量的协方差与两个变量的标准差之积的比值来反应关系的强弱。如左图所示，评分与价格、评分与回答数交互的Pearson相关系数分别为0.069和0.039，且分别在1%和5%的水平上显著，因此认为“评分”和“价格”、“评分”和“回答数”间存在显著的正相关关系。<b><i><br></i></b></p>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s2wtnBdydp",
+          "_anchor": "content6-3c",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content6-3c"
+          "_params": {}
         },
         {
           "_styles": {
@@ -2143,27 +2145,6 @@
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#b2ccd2\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>江苏广播电视台融媒体新闻中心 网罗天下栏目</b></p><p><b>参与近20个抖音视频制作，并播出。</b></p><p><b>链接：<a href=\"https://v.douyin.com/w5n55K/\" class=\"text-black\" target=\"_blank\">https://v.douyin.com/w5n55K/</a></b></p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "rXrs6qIVam",
           "_anchor": "content1-2x",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
-        },
-        {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor",
-            ".mbr-text, blockquote": {
-              "color": "#767676"
-            },
-            ".mbr-text P": {
-              "color": "#232323"
-            }
-          },
-          "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#cebfaf\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p><b>Bilibili VLOG</b></p><p><b>曾被MCN挖掘</b></p><p><b>链接：<a href=\"https://space.bilibili.com/3187302\" target=\"_blank\" class=\"text-black\">https://space.bilibili.com/3187302</a></b></p></div>\n        </div>\n    </div>\n</section>",
-          "_cid": "rXrtoex3SP",
-          "_anchor": "content1-2y",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
